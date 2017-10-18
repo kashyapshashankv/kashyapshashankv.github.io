@@ -1,1 +1,1 @@
-2.2 https://kashyapshashankv.github.io/envision/apks/Envision_dialer2.1.apk
+2.2 https://github.com/kashyapshashankv/envision_dialer_updates/releases/download/2.1/Envision_dialer2.1.apk
