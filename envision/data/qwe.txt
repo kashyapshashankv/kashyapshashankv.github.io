@@ -1,26 +1,17 @@
-{
-    "contacts": [
-        {
-                "id": "c200",
-                "name": "Ravi Tamada",
-                "phn": "ravi@gmail.com",
-        },
-        {
-                "id": "c201",
-                "name": "Johnny Depp",
-                "phn": "johnny_depp@gmail.com",
-        },
-        {
-                "id": "c202",
-                "name": "Leonardo Dicaprio",
-                "phn": "leonardo_dicaprio@gmail.com",
-        },
-        {
-                "id": "c203",
-                "name": "John Wayne",
-                "phn": "john_wayne@gmail.com",
-
-        }
-       
-    ]
+{  
+   "contacts":[  
+      {  
+         "id":"1",
+         "name":"Shashank",
+         "phn":"+919003853891"
+         
+      },
+      {  
+         "id":"2",
+         "name":"Adnan",
+         "phn":"+919003853981"
+         
+      }
+   ]
 }
+
