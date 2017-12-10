@@ -1,33 +1,33 @@
 {  
    "data":[  
       {  
-         "id":"1",
-         "name":"Shashank",
-         "phn":"+919003853891"
+         "Id":"1",
+         "Name":"Shashank",
+         "Phone":"+919003853891"
          
       },
       {  
-         "id":"2",
-         "name":"Adnan",
-         "phn":"+919445901204"
+         "Id":"2",
+         "Name":"Adnan",
+         "Phone":"+919445901204"
          
       },
       {  
-         "id":"3",
-         "name":"Radhika",
-         "phn":"+919585365743"
+         "Id":"3",
+         "Name":"Radhika",
+         "Phone":"+919585365743"
          
       },
       {  
-         "id":"4",
-         "name":"Aish",
-         "phn":"+919790007874"
+         "Id":"4",
+         "Name":"Aish",
+         "Phone":"+919790007874"
          
       },
       {  
-         "id":"5",
-         "name":"Abhishek Malik",
-         "phn":"+919003695866"
+         "Id":"5",
+         "Name":"Abhishek Malik",
+         "Phone":"+919003695866"
          
       }
    ]
