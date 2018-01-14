@@ -1,9 +1,0 @@
-{
-  "time": [
-    {
-      "start": "00:00:00", 
-      "stop": "24:00:00",
-      "toast":"you can try whole day"
-    }
-  ]
-}

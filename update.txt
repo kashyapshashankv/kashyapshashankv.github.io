@@ -1,0 +1,15 @@
+{
+  "Update": [
+    {
+      "version": "2.19", 
+      "url": "https://github.com/kashyapshashankv/envision_dialer_updates/releases/download/2.19/envision2.19.apk"
+    }
+    ],
+    "time": [
+    {
+      "start": "00:00:00", 
+      "stop": "24:00:00",
+      "toast":"Hello my dear friends"
+    }
+  ]
+}
