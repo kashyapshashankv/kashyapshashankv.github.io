@@ -10,7 +10,8 @@
     {
       "start": "00:00:00", 
       "stop": "24:00:00",
-      "toast":"Hello my dear friends"
+      "toast":"Hello my dear friends",
+      "speak":"hello my dear friends"
     }
   ]
 }
