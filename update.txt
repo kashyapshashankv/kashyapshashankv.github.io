@@ -5,7 +5,7 @@
       "url": "https://github.com/kashyapshashankv/envision_dialer_updates/releases/download/2.19/envision2.19.apk",
       "start": "18:00:00", 
       "stop": "24:00:00",
-      "toast":"want to jump off the cliff",
+      "toast":"Try between working hours",
       "speak":"Its not correct time"
     }
   ]
